@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "ModelCheck",
+    "description": "Model health check",
+    "author": "Nimisha",
+    "author_profile": "",
+    "url": "https://github.com/purplecat85/ModelCheck.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
